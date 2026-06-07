@@ -1,0 +1,26 @@
+{
+  "name": "みずほ銀行",
+  "short_name": "みずほ銀行",
+  "description": "みずほ銀行アプリ",
+  "id": "/",
+  "start_url": "https://Hidarikikia95084.github.io/",
+  "scope": "https://Hidarikikia95084.github.io/",
+  "display": "standalone",
+  "background_color": "#000066",
+  "theme_color": "#000066",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
